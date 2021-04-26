@@ -11,7 +11,7 @@ Server Bot
 Useful Discord Bot. (many more things coming soon)
 
 <div class="buttons">
-    <button class="btn">Commands</button>
+    <button class="btn" onclick="location.href = 'https://alone7326.github.io/serverbotsite/commands'">Commands</button>
     <button class="btn" onclick="location.href = 'https://discord.gg/JVJSCWaWES'">Support</button>
 
 <style>
