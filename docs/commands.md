@@ -1,4 +1,4 @@
-### All of the Bot's Commands are as follows:-
+# All of the Bot's Commands are as follows:-
 
 ## Informational commands.
 
@@ -25,4 +25,4 @@
 `clear` ~ Clear messages. (1 - 99)
 `nuke` ~ Nukes the channel.
 
-### More things are coming soon.....
+## More things are coming soon.....
