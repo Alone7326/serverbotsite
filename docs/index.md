@@ -12,6 +12,7 @@ Useful Discord Bot. (many more things coming soon)
 
 <div class="buttons">
     <button class="btn">Commands</button>
+    <button class="btn">Support</button>
 
 <style>
   .btn {
@@ -34,9 +35,3 @@ Useful Discord Bot. (many more things coming soon)
   }
 
 </style>
-
-
-
-
-### Support
-Having trouble with Bot? Check out our [support server](https://discord.gg/JVJSCWaWES) where we’ll help you sort it out.
