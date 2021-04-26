@@ -12,7 +12,7 @@ Useful Discord Bot. (many more things coming soon)
 
 <div class="buttons">
     <button class="btn">Commands</button>
-    <button class="btn">Support</button>
+    <button class="btn" onclick="location.href = 'https://discord.gg/JVJSCWaWES'">Support</button>
 
 <style>
   .btn {
