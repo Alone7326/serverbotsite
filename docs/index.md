@@ -27,3 +27,17 @@ Syntax highlighted code block
 ### Support
 
 Having trouble with Bot? Check out our [support server](https://discord.gg/JVJSCWaWES) where we’ll help you sort it out.
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Server Bot</title>
+</head>
+
+<div>
+    <header>
+        <h1></h1>
+        <img src>
+        <h3>A useful Discord Bot!</h3>
+    </header>
