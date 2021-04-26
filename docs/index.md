@@ -53,7 +53,7 @@ Useful Discord Bot. (many more things coming soon)
   
   p,
   span {
-       color: #9dff8a;
+       color: #000000;
        text-align: center;
        font-size: 150%
   }
