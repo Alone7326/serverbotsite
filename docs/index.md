@@ -6,7 +6,7 @@ Hope you are fine!! I am feeling great to see you.
 
 Server Bot
 
-<img src="https://cdn.discordapp.com/avatars/763989527747362896/f8a59613ac35537b713c30da86fc14ea.png?size=256" alt="Bot's pfp">
+<img class="avatar" src="https://cdn.discordapp.com/avatars/763989527747362896/f8a59613ac35537b713c30da86fc14ea.png?size=256" alt="Bot's pfp">
 
 Useful Discord Bot. (many more things coming soon)
 
@@ -34,8 +34,28 @@ Useful Discord Bot. (many more things coming soon)
       cursor: pointer;
   }
   
-  .avatar:hover {
+  .avatar {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border: 4px solid;
+      border-radius: 100%;
+      width: 20%;
+      height: 20%;
+      -webkit-transform: -webkit-transform .8s ease-in-out;
+      transition: transform .8s ease-in-out;
+  }
   
+  .avatar:hover {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+  }
+  
+  p,
+  span {
+       color: #9dff8a;
+       text-align: center;
+       font-size: 150%
   }
 
 </style>
