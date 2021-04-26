@@ -10,10 +10,8 @@ Server Bot
 
 Useful Discord Bot. (many more things coming soon)
 
-<body>
 <div class="buttons">
-    <button class="btn">**Commands**</button>
-</body>
+    <button class="btn">Commands</button>
 
 <style>
   .btn {
