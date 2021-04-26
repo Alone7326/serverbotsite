@@ -4,22 +4,14 @@ Hope you are fine!! I am feeling great to see you.
 
 ### About Bot
 
+Server Bot
+
 <img src="https://cdn.discordapp.com/avatars/763989527747362896/f8a59613ac35537b713c30da86fc14ea.png?size=256" alt="Bot's pfp">
 
+Useful Discord Bot. (many more things coming soon)
+
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+[<button class="btn">**Commands**</button>](https://discord.gg/JVJSCWaWES)
 ```
 
 ### Support
