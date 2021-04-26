@@ -35,6 +35,8 @@ Useful Discord Bot. (many more things coming soon)
 
 </style>
 
-### Support
 
+
+
+### Support
 Having trouble with Bot? Check out our [support server](https://discord.gg/JVJSCWaWES) where we’ll help you sort it out.
