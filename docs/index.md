@@ -33,5 +33,9 @@ Useful Discord Bot. (many more things coming soon)
       color: white;
       cursor: pointer;
   }
+  
+  .avatar:hover {
+  
+  }
 
 </style>
