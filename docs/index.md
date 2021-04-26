@@ -10,8 +10,32 @@ Server Bot
 
 Useful Discord Bot. (many more things coming soon)
 
-<button class="btn">**Commands**</button>
+<body>
+<div class="buttons">
+    <button class="btn">**Commands**</button>
+</body>
 
+<style>
+  .btn {
+      backgroud-color: #9dff8a;
+      color: black;
+      font-size: 15px;
+      transition-duration: 0.5s;
+      border: 2px solid #000000;
+      border-radius: 8px;
+  }
+  
+  .buttons {
+      text-align: center;
+  }
+  
+  .btn:hover {
+      background-color: #ffa238;
+      color: white;
+      cursor: pointer;
+  }
+
+</style>
 
 ### Support
 
