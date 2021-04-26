@@ -11,7 +11,7 @@ Server Bot
 Useful Discord Bot. (many more things coming soon)
 
 ```markdown
-[<button class="btn">**Commands**</button>](https://discord.gg/JVJSCWaWES)
+<button class="btn">**Commands**</button>
 ```
 
 ### Support
